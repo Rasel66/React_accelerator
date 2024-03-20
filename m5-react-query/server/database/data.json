@@ -1,0 +1,154 @@
+{
+  "first": 1,
+  "last": 2,
+  "prev": null,
+  "next": 2,
+  "pages": 2,
+  "items": 18,
+  "products": [
+    {
+      "id": "1",
+      "title": "iPhone 1",
+      "description": "An apple mobile which is nothing like apple.",
+      "price": 1000,
+      "rating": 4.3,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg"
+    },
+    {
+      "id": "2",
+      "title": "iPhone 2",
+      "description": "An apple mobile which is nothing like apple.",
+      "price": 2000,
+      "rating": 4.35,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg"
+    },
+    {
+      "id": "3",
+      "title": "iPhone 3",
+      "description": "An apple mobile which is nothing like apple.",
+      "price": 3000,
+      "rating": 4.4,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/3/thumbnail.jpg"
+    },
+    {
+      "id": "4",
+      "title": "iPhone 4",
+      "description": "An apple mobile which is nothing like apple.",
+      "price": 4000,
+      "rating": 4.45,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg"
+    },
+    {
+      "id": "5",
+      "title": "iPhone 5",
+      "description": "An apple mobile which is nothing like apple.",
+      "price": 5000,
+      "rating": 4.5,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/5/thumbnail.jpg"
+    },
+    {
+      "id": "6",
+      "title": "iPhone 6",
+      "description": "An apple mobile which is nothing like apple.",
+      "price": 6000,
+      "rating": 4.55,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/17/thumbnail.jpg"
+    },
+    {
+      "id": "7",
+      "title": "iPhone 7",
+      "description": "An apple mobile which is nothing like apple.",
+      "price": 7000,
+      "rating": 4.6,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg"
+    },
+    {
+      "id": "8",
+      "title": "iPhone 8",
+      "description": "An apple mobile which is nothing like apple.",
+      "price": 8000,
+      "rating": 4.65,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/8/thumbnail.jpg"
+    },
+    {
+      "id": "9",
+      "title": "iPhone 9",
+      "description": "An apple mobile which is nothing like apple.",
+      "price": 9000,
+      "rating": 4.7,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/8/thumbnail.jpg"
+    },
+    {
+      "id": "10",
+      "title": "iPhone 10",
+      "description": "An apple mobile which is nothing like apple.",
+      "price": 10000,
+      "rating": 4.75,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/18/thumbnail.jpg"
+    },
+    {
+      "id": "11",
+      "title": "iPhone 11",
+      "description": "An apple mobile which is nothing like apple.",
+      "price": 11000,
+      "rating": 4.8,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/11/thumbnail.jpg"
+    },
+    {
+      "id": "12",
+      "title": "iPhone 12",
+      "description": "An apple mobile which is nothing like apple.",
+      "price": 12000,
+      "rating": 4.85,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/12/thumbnail.jpg"
+    },
+    {
+      "id": "13",
+      "title": "iPhone 13",
+      "description": "An apple mobile which is nothing like apple.",
+      "price": 1000,
+      "rating": 4.9,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/16/thumbnail.jpg"
+    },
+    {
+      "id": "14",
+      "title": "iPhone 14",
+      "description": "An apple mobile which is nothing like apple.",
+      "price": 14000,
+      "rating": 4.95,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/14/thumbnail.jpg"
+    },
+    {
+      "id": "15",
+      "title": "iPhone 15",
+      "description": "An apple mobile which is nothing like apple.",
+      "price": 15000,
+      "rating": 5,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/15/thumbnail.jpg"
+    },
+    {
+      "id": "b3e39ddf-9397-44a0-9030-dc4857a9abfb",
+      "title": "Bed",
+      "description": "Superb bed",
+      "price": 10000,
+      "rating": 4.9,
+      "thumbnail": "https://images.unsplash.com/photo-1616486029423-aaa4789e8c9a?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJlZHJvb218ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "6a70f2e1-16dd-4c96-8d3b-512ee0535c78",
+      "title": "Mango",
+      "description": "Delicious Mango",
+      "price": 50,
+      "rating": 4.5,
+      "thumbnail": "https://media.istockphoto.com/id/529964085/photo/mango.jpg?s=612x612&w=0&k=20&c=rmcMZlLOZFdn4NhUcjnaJ3EBHKYZQ4xH4xzpzFU4JgY="
+    },
+    {
+      "id": "ef86f3cf-f88a-4dcc-b430-db2b750ea0e4",
+      "title": "Banana",
+      "description": "Best fruit",
+      "price": 40,
+      "rating": 5,
+      "thumbnail": "https://media.istockphoto.com/id/1400057530/photo/bananas-isolated.jpg?s=612x612&w=0&k=20&c=KLtV4quCnxwWOOx_uUJTQUTl9VVJzA72ykrQlc8P6a0="
+    }
+  ]
+}
